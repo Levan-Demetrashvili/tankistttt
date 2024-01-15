@@ -17,3 +17,5 @@ I extend an invitation to fellow beginners, seasoned professionals, and knowledg
 Feel free to reach out for coding discussions or if you have insights to enhance my skills.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tankistttt&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1080)](https://git.io/streak-stats)
+
+<img src="https://streak-stats.demolab.com?user=tankistttt&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1080" alt="GitHub Streak" style="height: 200px;">
